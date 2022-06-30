@@ -1,0 +1,29 @@
+{
+  "name": "to-do-in-my-vehicle",
+  "version": "1.0.0",
+  "description": "Simple list of things that will be done in vehicle - only html/css/bootstrap boiler plate - but maybe it will be converted to standard web components app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DHalupczok/to-do-in-my-vehicle.git"
+  },
+  "keywords": [
+    "todo",
+    "html",
+    "css",
+    "scss",
+    "bootstrap"
+  ],
+  "author": "Denis Halupczok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DHalupczok/to-do-in-my-vehicle/issues"
+  },
+  "homepage": "https://github.com/DHalupczok/to-do-in-my-vehicle#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

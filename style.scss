@@ -1,0 +1,12 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+
+$theme-colors: (
+        "green":  #4BF035,
+        "cyan": #0CF7F3,
+        "blue": #0003E0,
+        "violet": #F70CEE,
+        "orange": #F05013
+);
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
